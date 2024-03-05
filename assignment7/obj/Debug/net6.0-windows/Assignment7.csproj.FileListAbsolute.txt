@@ -1,0 +1,16 @@
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\bin\Debug\net6.0-windows\Assignment7.exe
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\bin\Debug\net6.0-windows\Assignment7.deps.json
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\bin\Debug\net6.0-windows\Assignment7.runtimeconfig.json
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\bin\Debug\net6.0-windows\Assignment7.dll
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\bin\Debug\net6.0-windows\Assignment7.pdb
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.Form1.resources
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.csproj.GenerateResource.cache
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.dll
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\refint\Assignment7.dll
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.pdb
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\Assignment7.genruntimeconfig.cache
+C:\Users\hugoj\source\repos\Week2 excesices\Assignment7\obj\Debug\net6.0-windows\ref\Assignment7.dll
